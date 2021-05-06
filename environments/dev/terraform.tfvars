@@ -1,1 +1,1 @@
-project="$etl-panda"
+project="etl-panda"
